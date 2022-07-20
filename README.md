@@ -1,5 +1,4 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/61997970?s=400&u=7df2426c14c7c87fc874ca4ea39f56962d8d158c&v=4" />
    <h2 align="center">Jezer Alfredo Perez Cruz</h2>
 </p>
 <p align="center">Soy estudiantes de <strong>Ingeniero en Software</strong>, mis aplicaciones sobresalientes son <strong>Desarrollo movil y Tester </strong></p>
