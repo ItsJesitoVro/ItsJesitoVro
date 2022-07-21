@@ -1,9 +1,9 @@
 <p align="center" width="300">
    <h2 align="center">Jezer Alfredo Perez Cruz</h2>
 </p>
-<p align="center">Soy estudiantes de <strong>Ingeniero en Software</strong>, mis aplicaciones sobresalientes son <strong>Desarrollo movil y Tester </strong></p>
+<p align="center">Soy estudiantes de <strong>Ingeniero en Software</strong>, mis conocimientos sobresalientes son <strong>Desarrollo movil y Tester </strong></p>
 <br>
-<p> Aprender y aplicar mis conocimientos adquiridos en el ámbito laboral, fomentando el trabajo colaborativo para el lograr los objetivos de la institución.</p>
+<p> Aprender y aplicar mis conocimientos adquiridos en el ámbito laboral, fomentando el trabajo colaborativo para lograr los objetivos de las instituciones.</p>
 <h2>Estadisticas de GitHub</h2>
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ItsJesitoVro&show_icons=true&theme=synthwave)
