@@ -6,7 +6,7 @@
 <p> Aprender y aplicar mis conocimientos adquiridos en el ámbito laboral, fomentando el trabajo colaborativo para el lograr los objetivos de la institución.</p>
 <h2>Estadisticas de GitHub</h2>
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ItsJesitoVro&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ItsJesitoVro&show_icons=true&theme=onedark)
 
 <p>Tecnologias que domino: </p>
 <div style="display: inline_block">
