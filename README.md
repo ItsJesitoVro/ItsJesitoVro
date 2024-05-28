@@ -19,6 +19,6 @@
    <img aling="center" alt="symfony" src="https://img.shields.io/badge/Symfony-1.6-green?style=for-the-badge&logo=symfony&color=%23080808cc"/>   
    <img aling="center" alt="ionic" src="https://img.shields.io/badge/Ionic-white?style=for-the-badge&logo=ionic"/> 
    <img aling="center" alt="spring" src="https://img.shields.io/badge/Springboot-white?style=for-the-badge&logo=springboot&color=%23aef089"/> 
-   <img aling="center" alt="nestjs" src="https://img.shields.io/badge/Nest.js-red?logo=nestjs"/>
-   <img aling="center" alt="scala" src="https://img.shields.io/badge/Scala-9F2820?logo=scala"/>
+   <img aling="center" alt="nestjs" src="https://img.shields.io/badge/Nest.js-red?style=for-the-badge&logo=nestjs"/>
+   <img aling="center" alt="scala" src="https://img.shields.io/badge/Scala-9F2820?style=for-the-badge&logo=scala"/>
 </div>
